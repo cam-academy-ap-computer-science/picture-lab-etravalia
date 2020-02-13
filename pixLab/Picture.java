@@ -91,7 +91,7 @@ public class Picture extends SimplePicture
   public void zeroBlue()
   {
     // ADDING BUNCHES OF COMMENTS  (GIT)
-    // TO TEST PULL AND MERGINE MECHANISMS (GIT)
+	// ADDED STUFF AND DELETED LAST LINE ECLI
     // THE ABOVE WAS ALL ADDED IN (GIT)
     Pixel[][] pixels = this.getPixels2D();
     for (Pixel[] rowArray : pixels)
