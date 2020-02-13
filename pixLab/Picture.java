@@ -92,6 +92,7 @@ public class Picture extends SimplePicture
   {
     // ADDING BUNCHES OF COMMENTS  (GIT)
 	// ADDED STUFF AND DELETED LAST LINE ECLI
+    // Modified this line I deleted. (GIT)
     // THE ABOVE WAS ALL ADDED IN (GIT)
     Pixel[][] pixels = this.getPixels2D();
     for (Pixel[] rowArray : pixels)
