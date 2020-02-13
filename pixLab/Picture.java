@@ -90,6 +90,9 @@ public class Picture extends SimplePicture
   /** Method to set the blue to 0 */
   public void zeroBlue()
   {
+    // ADDING BUNCHES OF COMMENTS  (GIT)
+    // TO TEST PULL AND MERGINE MECHANISMS (GIT)
+    // THE ABOVE WAS ALL ADDED IN (GIT)
     Pixel[][] pixels = this.getPixels2D();
     for (Pixel[] rowArray : pixels)
     {
